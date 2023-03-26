@@ -1,10 +1,10 @@
 -- =============================================
 -- SaveToDB Framework for MySQL
--- Version 10.6, December 13, 2022
+-- Version 10.8, January 9, 2023
 --
 -- This script updates SaveToDB Framework 9 to version 10.0
 --
--- Copyright 2013-2022 Gartle LLC
+-- Copyright 2013-2023 Gartle LLC
 --
 -- License: MIT
 -- =============================================
